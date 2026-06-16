@@ -1,0 +1,21 @@
+{
+  "name": "humaneforms",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Form fields that never reject a valid human.",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@11.6.0",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "pnpm -r test",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5",
+    "tsup": "^8.2.4",
+    "@types/node": "^20.14.0"
+  }
+}
