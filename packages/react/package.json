@@ -1,6 +1,6 @@
 {
   "name": "@humaneforms/react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unstyled, humane React form fields that never reject a valid human.",
   "license": "MIT",
   "type": "module",
